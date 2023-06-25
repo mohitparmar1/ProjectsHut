@@ -2629,7 +2629,13 @@
         "title": "JobWriteAI",
         "description": "JobWriteAI allows you to generate cover letters instantly, just paste the job description fill out skills to avoid and you'll have a cover letter in seconds.",
         "tech": ["ReactJS", "JavaScript", "Tailwind CSS", "GPT-3"]
-      }
+      },
+       {
+      "link": "https://github.com/mohitparmar1/Followers-Animation",
+      "title": "Followers Animation",
+      "description": "its a followers increasing animation ",
+      "tech": ["Html","Css","javascript"]
+    }
     ]
   },
   {
